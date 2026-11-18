@@ -1,0 +1,6 @@
+{
+  "name": "ElderCare Connect",
+  "description": "Trusted community assistance network connecting elderly individuals with verified neighborhood volunteers.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
